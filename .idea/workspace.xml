@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9917c3e3-757c-4e26-8048-039213e00ff8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src - Copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src - Copy/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src - Copy/clientmgmt/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/invmgmt/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/invmgmt/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/invmgmt/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/invmgmt/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/invmgmt/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/invmgmt/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/invoicemgmt/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/invoicemgmt/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/invoicemgmt/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/invoicemgmt/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/src/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/src/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/src/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/templates/add_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/templates/add_item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/templates/list_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/templates/list_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/templates/list_view_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/templates/list_view_item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src - Copy/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src - Copy/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="2FYgYU2zvXr0yVs6a9Og98cMNRk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Point Break\PycharmProjects\src\invmgmt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Point Break\PycharmProjects\src" />
+      <recent name="C:\Users\Point Break\PycharmProjects\src\invoicemgmt" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="src" type="Python.DjangoServer" factoryName="Django server">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9917c3e3-757c-4e26-8048-039213e00ff8" name="Default Changelist" comment="" />
+      <created>1664674478479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664674478479</updated>
+      <workItem from="1664674479687" duration="5301000" />
+      <workItem from="1664750117863" duration="5252000" />
+      <workItem from="1664769257853" duration="3614000" />
+      <workItem from="1664795997574" duration="1256000" />
+      <workItem from="1664965993267" duration="193000" />
+      <workItem from="1665478126992" duration="864000" />
+      <workItem from="1665644062604" duration="2495000" />
+      <workItem from="1665655568721" duration="2117000" />
+      <workItem from="1665703321160" duration="4957000" />
+      <workItem from="1665747717244" duration="90000" />
+      <workItem from="1665748836545" duration="2203000" />
+      <workItem from="1665754085946" duration="1863000" />
+      <workItem from="1665757669618" duration="1023000" />
+      <workItem from="1665758766743" duration="118000" />
+      <workItem from="1665759203313" duration="773000" />
+      <workItem from="1666088367982" duration="3120000" />
+      <workItem from="1666091868346" duration="505000" />
+      <workItem from="1666168813373" duration="6001000" />
+      <workItem from="1666226291484" duration="1910000" />
+      <workItem from="1666229918562" duration="624000" />
+      <workItem from="1666230589013" duration="716000" />
+      <workItem from="1666231965862" duration="1060000" />
+      <workItem from="1666315410845" duration="1119000" />
+      <workItem from="1666417855155" duration="1237000" />
+      <workItem from="1666482444808" duration="2459000" />
+      <workItem from="1666599102896" duration="7552000" />
+      <workItem from="1666616044249" duration="1408000" />
+      <workItem from="1666654904492" duration="2706000" />
+      <workItem from="1666659116856" duration="345000" />
+      <workItem from="1666659646320" duration="2007000" />
+      <workItem from="1666663041320" duration="16952000" />
+      <workItem from="1666690012947" duration="896000" />
+      <workItem from="1666692528104" duration="328000" />
+      <workItem from="1667274656735" duration="333000" />
+      <workItem from="1667696815668" duration="2726000" />
+      <workItem from="1667700871148" duration="338000" />
+      <workItem from="1667805903498" duration="7509000" />
+      <workItem from="1667817840897" duration="18000" />
+      <workItem from="1667822631737" duration="4702000" />
+      <workItem from="1667862377650" duration="161000" />
+      <workItem from="1667871841907" duration="9897000" />
+      <workItem from="1667888608190" duration="110000" />
+      <workItem from="1667893593623" duration="4792000" />
+      <workItem from="1667898831756" duration="3033000" />
+      <workItem from="1667947682223" duration="2027000" />
+      <workItem from="1667989693678" duration="3528000" />
+      <workItem from="1667993795970" duration="1895000" />
+      <workItem from="1668033279798" duration="3025000" />
+      <workItem from="1668037551358" duration="1468000" />
+      <workItem from="1668043210193" duration="175000" />
+      <workItem from="1668128662643" duration="98000" />
+      <workItem from="1668128790542" duration="39000" />
+      <workItem from="1668129033757" duration="596000" />
+      <workItem from="1668131064868" duration="545000" />
+      <workItem from="1668133838875" duration="13888000" />
+      <workItem from="1668155177184" duration="6413000" />
+      <workItem from="1668161815400" duration="2043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667895965499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1667895965499" />
+    <state x="437" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1667874432225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1667874432225" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1667990539323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1667990539323" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1667990336379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1667990336379" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1668163827001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1668163827001" />
+    <state x="553" y="257" width="260" height="270" key="Github.ShareDialog" timestamp="1668162027716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="257" width="260" height="270" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1668162027715" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1668161968279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1668161968279" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1668163371578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1668163371578" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1668161815196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1668161815196" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668163416042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1668163416042" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1666418911524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1666418911524" />
+    <state x="497" y="53" key="svn.repositoryBrowser" timestamp="1666227175750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="497" y="53" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1666227175750" />
+  </component>
+</project>

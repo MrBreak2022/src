@@ -1,0 +1,38 @@
+{% load static %}
+{% load crispy_forms_tags %}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<link href="{% static 'css/stylesheet.css' %}" rel="stylesheet">
+    <title>Clients</title>
+</head>
+{% include 'navbar.html' %}
+<br>
+<br>
+<br>
+<body>
+	<h1>Client List:</h1>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+              <th>COUNT</th>
+            <th>CLIENT NAME</th>
+            <th>CATEGORY</th>
+              <th>CONTACT NUMBER:</th>
+              <th>ACTION:</th>
+          </tr>
+        </thead>
+	{% for instance in queryset2 %}
+        <tr>
+        <td>{{ forloop.counter }}</td>
+	    <td>{{instance.client_name}}</td>
+	    <td>{{instance.category}}</td>
+            <td>{{instance.contact_number}}</td>
+            <td><a class="btn btn-danger" type="submit" href="{% url 'delete_client' instance.id %}">Remove Client</a></td>
+        </tr>
+	{% endfor %}
+    </table>
+<a class="btn btn-success" type="submit" href="{% url 'add_client' %}">Add Client</a>
+</body>
+</html>

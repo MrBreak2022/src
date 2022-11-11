@@ -1,0 +1,46 @@
+
+table {
+    border-style: solid;
+    text-align: center;
+}
+
+tr {
+    border-style: solid;
+    text-align: center;
+}
+
+th {
+    border-style: solid;
+    text-align: center;
+}
+
+td {
+    border-style: solid;
+    text-align: center;
+}
+
+form {
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+
+
+}
+a{
+    text-decoration: none;
+    color:   white;
+    display: inline;
+    list-style-type: none;
+    font-family: "Lucida Console";
+    text-align: center;
+
+}
+
+
+
+

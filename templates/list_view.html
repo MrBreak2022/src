@@ -1,0 +1,58 @@
+{% load static %}
+{% load crispy_forms_tags %}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<link href="{% static 'css/stylesheet.css' %}" rel="stylesheet">
+    <title>Invoices</title>
+</head>
+{% include 'navbar.html' %}
+<br>
+<br>
+<br>
+<body>
+	<h1>List of Invoices:</h1>
+	<form method='POST' action='' autocomplete="off"><br>
+        {% csrf_token %}
+    {{form|crispy}}
+        <input type="submit" value='Search'/>
+    </form>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>INVOICE NUMBER</th>
+              <th>CLIENT NAME</th>
+            <th>DATE CREATED</th>
+              <th>INVOICE TYPE</th>
+              <th>Payment Status</th>
+              <th>LINE ONE</th>
+              <th>LINE ONE QUANTITY</th>
+              <th>LINE TWO</th>
+              <th>LINE TWO QUANTITY</th>
+              <th>LINE THREE</th>
+              <th>LINE THREE QUANTITY</th>
+              <th>ACTION</th>
+          </tr>
+        </thead>
+	{% for instance in queryset %}
+        <tr>
+	    <td>{{instance.invoice_number}}</td>
+            <td>{{instance.name}}</td>
+	    <td>{{instance.invoice_date_created}}</td>
+	    <td>{{instance.invoice_type}}</td>
+            <td>{{ instance.paid }}</td>
+            <td>{{ instance.line_one }}</td>
+            <td>{{ instance.line_one_quantity }}</td>
+            <td>{{ instance.line_two }}</td>
+            <td>{{ instance.line_two_quantity }}</td>
+            <td>{{ instance.line_three }}</td>
+            <td>{{ instance.line_three_quantity }}</td>
+            <td><a class="btn btn-danger" type="submit" href="{% url 'delete_invoice' instance.id %}">Delete</a></td>
+        </tr>
+	{% endfor %}
+    </table>
+
+
+</body>
+</html>
